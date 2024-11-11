@@ -1,0 +1,66 @@
+This is BibTeX, Version 0.99d (TeX Live 2024/Arch Linux)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: plain.bst
+Database file #1: references.bib
+I was expecting a `,' or a `}'---line 88 of file references.bib
+ : @inproceedings{prueba 
+ :                       1,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 97 of file references.bib
+ : @inproceedings{prueba 
+ :                       2,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 107 of file references.bib
+ : @article{prueba 
+ :                 3,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for ""
+Warning--I didn't find a database entry for "PINNS"
+Warning--empty journal in collin2024forecastinghighspeedsolarwind
+Warning--empty journal in 2006LNCS.3732..554E
+Warning--can't use both author and editor fields in Gosling2007
+Warning--empty journal in cme_pred_2
+Warning--empty journal in comp_1
+You've used 10 entries,
+            2118 wiz_defined-function locations,
+            556 strings with 5628 characters,
+and the built_in function-call counts, 3058 in all, are:
+= -- 274
+> -- 185
+< -- 0
++ -- 77
+- -- 64
+* -- 217
+:= -- 552
+add.period$ -- 29
+call.type$ -- 10
+change.case$ -- 61
+chr.to.int$ -- 0
+cite$ -- 15
+duplicate$ -- 102
+empty$ -- 212
+format.name$ -- 64
+if$ -- 598
+int.to.chr$ -- 0
+int.to.str$ -- 10
+missing$ -- 10
+newline$ -- 52
+num.names$ -- 20
+pop$ -- 70
+preamble$ -- 1
+purify$ -- 52
+quote$ -- 0
+skip$ -- 71
+stack$ -- 0
+substring$ -- 126
+swap$ -- 7
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 38
+warning$ -- 5
+while$ -- 24
+width$ -- 12
+write$ -- 100
+(There were 3 error messages)
