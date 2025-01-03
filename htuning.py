@@ -7,7 +7,6 @@ import optuna
 
 labels: List[str] | str = criterion().labels
 
-
 def objective(trial: optuna.trial.Trial) -> Dict[str, float | int | str]:
     # Define the objective
     return hparams
